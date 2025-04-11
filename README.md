@@ -9,7 +9,7 @@ Atualmente, estou estudando linguagens como Python, JavaScript, HTML e CSS, e ta
 📚 Buscando crescer na área com dedicação, curiosidade e vontade de evoluir.
 
 
-### Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 
 
