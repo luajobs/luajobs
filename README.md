@@ -12,7 +12,7 @@ Atualmente, estou estudando Python, JavaScript, HTML e CSS, além de me aprofund
             src= "https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-BR-teal?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
-    <a href="www.instagram.com/in/luajobs">
+    <a href="www.instagram.com/in/lua.jobs">
         <img
             title="Me siga" 
             src="https://custom-icon-badges.demolab.com/badge/-insta-F25278?style=for-the-badge&logo=instagram&logoColor=white"
