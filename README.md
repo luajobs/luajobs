@@ -1,10 +1,10 @@
 ## Olá, eu sou a Luana Fragoso!
 
-**`Quality Assurance (QA)`** 
+**`Quality Assurance (QA)`** **`Desenvolvimento de Software`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade na área de tecnologia. Tenho interesse em aprender e me desenvolver na área de Quality Assurance (QA).
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade na área de tecnologia. Tenho interesse em aprender e me desenvolver nas áreas de Quality Assurance (QA) e desenvolvimento de software.
 
-Atualmente, estou estudando Python, JavaScript, HTML e CSS, além de me aprofundar nos conceitos e práticas de testes de software.
+Atualmente, estou estudando Python, JavaScript, HTML e CSS, além de me aprofundar nos conceitos de testes de software e boas práticas de desenvolvimento.
 
 <p align="left">
 <a href="https://www.google.com/maps/place/Rio+de+Janeiro,+RJ/@-22.9141308,-43.445982,11z/data=!3m1!4b1!4m6!3m5!1s0x9bde559108a05b:0x50dc426c672fd24e!8m2!3d-22.9068467!4d-43.1728965!16zL20vMDZnbXI?entry=ttu&g_ep=EgoyMDI1MDQwOC4wIKXMDSoASAFQAw%3D%3D">
