@@ -1,11 +1,14 @@
-## Hi there 👋
+## Olá, eu sou a Luana Fragoso!
 
-<!--
-**luajobs/luajobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade na área de tecnologia. Tenho interesse em aprender mais sobre Quality Assurance (QA), desenvolvimento de soluções, frontend e backend.
 
-- 🔭 I’m currently working on ...
+Atualmente, estou estudando linguagens como Python, JavaScript, HTML e CSS, e também estou iniciando meus estudos com frameworks.
+
+🛠️ Sempre aberta a aprender coisas novas e melhorar minhas habilidades!
+📚 Buscando crescer na área com dedicação, curiosidade e vontade de evoluir.
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
