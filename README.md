@@ -116,16 +116,7 @@ Atualmente, estou estudando Python, JavaScript, HTML e CSS, além de me aprofund
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
 />
-<img 
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="luajobs" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/luajobs?trk=profile-badge">Luana Fragoso</a></div>
-    align="left" 
-    alt="Cypress" 
-    title="Cypress"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
-/>
+<img/>
 <br/>
 <br/>
 
