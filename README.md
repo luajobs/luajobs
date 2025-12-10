@@ -121,7 +121,4 @@ Atualmente, estou estudando Python, JavaScript, HTML e CSS, além de me aprofund
 <br/>
 <br/>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="luajobs" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/luajobs?trk=profile-badge">Luana Fragoso</a></div>
 
